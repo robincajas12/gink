@@ -61,3 +61,7 @@ export function info(msg: string) {
     // using console.error because I want to write to stderr
     console.error(`[${timestamp} ${caller}] ${msg}`);
 }
+
+export function not(expr: any): boolean {
+    return !expr
+}
