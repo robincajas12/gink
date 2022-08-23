@@ -1,3 +1,7 @@
+[![OpenSSF Scorecard]
+(https://api.securityscorecards.dev/projects/github.com/{org}/{repo}/badge)]
+(https://api.securityscorecards.dev/projects/github.com/{org}/{repo})
+
 # Gink
 
 Gink is an open source, cryptographically secure, multi-master database system
