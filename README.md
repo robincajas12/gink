@@ -1,6 +1,6 @@
 [![OpenSSF Scorecard]
-(https://api.securityscorecards.dev/projects/github.com/{org}/{repo}/badge)]
-(https://api.securityscorecards.dev/projects/github.com/{org}/{repo})
+(https://api.securityscorecards.dev/projects/github.com/google/gink/badge)]
+(https://api.securityscorecards.dev/projects/github.com/google/gink)
 
 # Gink
 
