@@ -1,12 +1,12 @@
 const path = require('path');
 
 module.exports = {
-    entry: './typescript/entry.ts',
+    entry: './entry.ts',
     mode: "development",
     devtool: "inline-source-map",
     output: {
-      filename: 'main.js',
-      path: path.resolve(__dirname, 'dist'),
+      filename: 'packed.js',
+      path: path.resolve(__dirname, 'webpack.out'),
     },
     resolve: {
         extensions: [".ts", ".tsx", ".js"]
